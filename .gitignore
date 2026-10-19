@@ -1,0 +1,10 @@
+# Xcode
+xcuserdata/
+DerivedData/
+build/
+*.xcuserstate
+*.xcscmblueprint
+.DS_Store
+
+# Secrets (API keys) — copy Config/Secrets.example.xcconfig to Config/Secrets.xcconfig
+Config/Secrets.xcconfig
